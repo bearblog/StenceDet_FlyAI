@@ -1,0 +1,8 @@
+flyai
+jieba
+numpy
+pandas
+Pillow
+transformers==2.5.0
+torch
+torchsummary
