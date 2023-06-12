@@ -3,6 +3,6 @@ jieba
 numpy
 pandas
 Pillow
-transformers==2.5.0
+transformers==4.30.0
 torch
 torchsummary
